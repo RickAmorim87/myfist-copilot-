@@ -56,7 +56,6 @@ Funciona quase como um **tutor particular**.
 
 # 🧠 Resumo mental rápido
 - **Ask** → entender  
-- **Plan** → planejar antes de agir  
-- **Edit** → mudar código  
+- **Plan** → planejar antes de agir 
 - **Agent** → executar tarefas grandes sozinho  
 - **Study** → entendimento ativo  
